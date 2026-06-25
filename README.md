@@ -60,5 +60,15 @@ Analyzed an Instagram-like social media database to uncover user behavior, engag
 
 ---
 
+## 🎯 Conclusion
+Engagement, not audience size - is Instagram’s real currency. Across every question - loyalty, influence, ambassadors, hashtags - the same pattern holds: what users do consistently outweigh how many people follow them. Build the roadmap around behavior, and growth follows.
+
+---
+
 ## 🏆 Outcome
-This project demonstrates how SQL can be leveraged beyond querying, transforming social media data into meaningful business intelligence, user segmentation strategies, and actionable growth recommendations.
+This project demonstrates how SQL can be leveraged beyond querying; transforming social media data into meaningful business intelligence, user segmentation strategies, and actionable growth recommendations.
+
+---
+
+## 👤 Author
+**Sumit Bhatia**
