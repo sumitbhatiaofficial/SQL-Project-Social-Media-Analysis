@@ -71,4 +71,4 @@ This project demonstrates how SQL can be leveraged beyond querying; transforming
 ---
 
 ## 👤 Author
-**Sumit Bhatia**
+**Sumit Suprabhat Bhatia**
